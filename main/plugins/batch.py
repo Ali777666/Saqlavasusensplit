@@ -5,7 +5,7 @@
 Plugin for both public & private channels!
 """
 
-import time, os, asyncio, decouple
+import time, os, asyncio, decouple,random
 
 from .. import bot as Drone
 from .. import userbot, Bot, AUTH
